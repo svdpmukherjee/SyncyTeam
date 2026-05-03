@@ -1,0 +1,13 @@
+# Node and build outputs
+node_modules/
+dist/
+*.tsbuildinfo
+
+# Docs and diagrams (as requested)
+docs/
+*.md
+*.drawio
+*.pdf
+
+# OS files
+.DS_Store
