@@ -927,7 +927,7 @@ export const upcomingDates: UpcomingDate[] = [
     id: "d1",
     date: "2026-05-04",
     daysUntil: 4,
-    title: "DARKAID WP2 design draft due (HEXACO+D × DP-susceptibility matrix)",
+    title: "PSYBER WP4 design draft due",
     kind: "milestone",
     source: "extracted",
     visibleToRanks: [1, 2],
