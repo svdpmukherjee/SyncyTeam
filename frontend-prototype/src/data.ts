@@ -1200,7 +1200,7 @@ export const samplePokes: Poke[] = [
     toEmail: "anastasia.sergeeva@uni.lu",
     urgency: "low",
     question:
-      "When you have time, check the DARKAID WP2 draft — particularly the HEXACO+D × DP-susceptibility experimental matrix. No rush, by Friday is fine.",
+      "When you have time, check the PSYBER WP4 draft. No rush, by Friday is fine.",
     posted: "2d ago",
     status: "done",
   },
