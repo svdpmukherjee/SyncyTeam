@@ -2,7 +2,7 @@
 // Brand
 // ────────────────────────────────────────────────────────────
 export const brand = {
-  name: "Syncyteam",
+  name: "SyncyTeam",
   sub: "AI workspace for any team",
   tagline:
     "A personal AI assistant for every member, backed by a shared knowledge base — works for research labs, product teams, R&D groups, services.",
